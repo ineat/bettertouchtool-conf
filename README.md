@@ -1,0 +1,1 @@
+# bettertouchtool-conf
